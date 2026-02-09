@@ -2,7 +2,7 @@
 // 已配置完成
 
 const SUPABASE_URL = 'https://vyndievmkqermgunaqns.supabase.co'
-const SUPABASE_ANON_KEY = 'sbp_8cd9b8c33c92fc2512f2b5b83d8627553d7859a4'
+const SUPABASE_ANON_KEY = 'sb_publishable__3EBrDdXPKaKxhh9_xuchQ_vkL_BBys'
 
 // 创建客户端
 const createClient = () => {
