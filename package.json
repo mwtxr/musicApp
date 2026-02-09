@@ -1,0 +1,23 @@
+{
+  "name": "musicApp",
+  "version": "1.0.0",
+  "description": "一起听歌 - MVP",
+  "main": "main.js",
+  "scripts": {
+    "dev": "uni",
+    "build": "uni build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "vue": "^3.3.0",
+    "uni-app": "^3.0.0"
+  },
+  "devDependencies": {
+    "@dcloudio/types": "^3.4.0",
+    "@dcloudio/uni-automator": "^3.4.0",
+    "@dcloudio/uni-cli-shared": "^3.4.0",
+    "@dcloudio/uni-stacktracey": "^3.4.0",
+    "@dcloudio/vite-plugin-uni": "^3.4.0",
+    "vite": "^5.0.0"
+  }
+}
