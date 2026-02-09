@@ -1,8 +1,8 @@
 // Supabase 客户端配置
-// 请替换为你自己的 Supabase 项目配置
+// 已配置完成
 
-const SUPABASE_URL = 'YOUR_SUPABASE_URL'
-const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_KEY'
+const SUPABASE_URL = 'https://vyndievmkqermgunaqns.supabase.co'
+const SUPABASE_ANON_KEY = 'sbp_8cd9b8c33c92fc2512f2b5b83d8627553d7859a4'
 
 // 创建客户端
 const createClient = () => {
